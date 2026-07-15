@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General contact
+    url: https://axient.app/contact
+    about: Use the private Axient contact route for enquiries and feedback.
+  - name: Security report
+    url: https://axient.app/contact
+    about: Do not publish sensitive vulnerability details in a public issue.
